@@ -1,2 +1,2 @@
 # Certifications
-All of the PDF's of my certifications.
+PDF's of my certifications.
